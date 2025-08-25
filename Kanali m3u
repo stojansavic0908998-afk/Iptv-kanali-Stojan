@@ -1,4 +1,7 @@
-# Iptv-kanali-Stojan
-https://iptv-org.github.io/channels/rs/TVVranje#SD
-https://iptv-org.github.io/channels/rs/UNATV#SD
-https://iptv-org.github.io/channels/rs/ZvezdaTV#SD
+
+#EXTM3U
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Serbia", RTS 1
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Serbia", RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
